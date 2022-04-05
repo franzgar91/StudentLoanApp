@@ -11,5 +11,5 @@ This app follows fictional repayment rules created for this project only:
 - The CSL uses an interest rate of prime plus 2.5%
 - The OSL uses an interest rate of prime plus 1.0%
 
-![Alt text](https://github.com/franzgar91/StudentLoanApp/blob/main/Images/MainMenu_And_InputForm.PNG =200x200"Optional Title")
+![Alt text](https://github.com/franzgar91/StudentLoanApp/blob/main/Images/MainMenu_And_InputForm.PNG "Optional Title")
 
